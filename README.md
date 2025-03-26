@@ -1,7 +1,3 @@
-I can help generate a `README.md` file for your project based on the "HeartBeat Classification" notebook you've uploaded. I'll assume the project is a machine learning model to classify heartbeat data and include placeholders for screenshots. Here's a draft for the README file:
-
----
-
 # HeartBeat Classification
 
 This project is a machine learning-based classification model that aims to analyze and classify heartbeat data. The goal is to identify and distinguish different categories of heartbeats based on the features extracted from the dataset.
@@ -50,7 +46,3 @@ Contributions are welcome! Feel free to submit a Pull Request or open an Issue i
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-You can adjust this according to the specifics of your project, such as the model details, dataset link, and add your screenshots. Let me know if you'd like to edit or add anything else!
